@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JessBobby&show_icons=true&theme=dark&count_private=true)
-![JessBOBBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessBobby)](https://github.com/anuraghazra/github-readme-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=JessBobby)]
