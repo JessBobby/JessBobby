@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=JessBobby&theme=minimal" />
 </div>  
-***穷则搁置争议，达则自古以来.😊***
+穷则搁置争议，达则自古以来.😊
