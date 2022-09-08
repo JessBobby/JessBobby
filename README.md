@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JessBobby&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JessBobby&show_icons=true&theme=radical&count_private=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=JessBobby)]
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=JessBobby&theme=minimal" />
