@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=JessBobby)]
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=JessBobby&theme=minimal" />
-</div>
-> ***穷则搁置争议，达则自古以来.😊***
+</div>  
+***穷则搁置争议，达则自古以来.😊***
