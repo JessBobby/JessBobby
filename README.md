@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JessBobby&show_icons=true&theme=dark&count_private=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=JessBobby)]
+> ***穷则搁置争议，达则自古以来😊***
