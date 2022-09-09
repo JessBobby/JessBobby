@@ -1,4 +1,6 @@
-### Hi there 普普通通大学牲一枚👋穷则搁置争议，达则自古以来.😊
+### Hi there 普普通通大学牲一枚👋穷则搁置争议，达则自古以来.😊  
+### HI there Ordinary university cattle one.  
+### Poor is shelved controversy, and daze has been since ancient times.
 
 <!--
 **JessBobby/JessBobby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
